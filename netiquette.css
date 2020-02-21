@@ -1,0 +1,31 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+#container {
+	width: 1000px;
+}
+aside {
+	margin-bottom: 10px;
+	margin-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	border: thick solid #686868;
+	border-top-left-radius: 10px; 
+	float: right;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"
+}
+body {
+	width: 1000px;
+	font-size: 100%;
+	font-family: Cambria, 'Hoefler Text', 'Liberation Serif', Times, 'Times New Roman', 'serif';
+	background-color: crimson;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 40px;
+	padding-right: 40px;
+	padding-bottom: 40px;
+	padding-left: 40px;
+}
